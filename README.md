@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hemant Shrestha
-- 👀 I’m interested in Mobile Development- Android, IOS
+- 👀 I’m interested in iOS
 - 🌱 I’m currently learning iOS.
 - 💞️ I’m looking to collaborate on iOS projects.
 - 📫 How to reach me sthahemant1st@gmail.com
