@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Hemant Shrestha
-- 👀 iOS Developer
-- 🌱 Previouly worked in Android and Flutter projects too.
-- 💞️ I’m looking to collaborate on iOS projects.
-- 📫 How to reach me sthahemant1st@gmail.com
+# 👋 Hi, It's me Hemant Shrestha.
+
+## 🔗 Social links
+- LinkedIn: [@sthahemant1st](https://www.linkedin.com/in/sthahemant1st/)
+- Medium: [@sthahemant1st](https://medium.com/@sthahemant1st)
